@@ -41,5 +41,5 @@ python -m src.main_llm
 * vectorstore_builder.py: vector embedding and retrieval
 
 ![image alt](https://github.com/Sourya2000/LLM-Meal-plan-generator-based-on-BMI/blob/main/Screenshot%202025-07-27%20020019.png?raw=true)
-
+![image alt](https://github.com/Sourya2000/LLM-Meal-plan-generator-based-on-BMI/blob/main/Screenshot%202025-07-27%20020131.png?raw=true)
 
