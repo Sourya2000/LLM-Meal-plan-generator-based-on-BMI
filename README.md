@@ -1,4 +1,4 @@
-# HCAI
+# LLM Mean plan generator based on BMI
 
 ## Basic setup
 
