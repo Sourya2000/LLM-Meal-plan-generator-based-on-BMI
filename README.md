@@ -39,3 +39,8 @@ python -m src.main_llm
 * meal_generation.py_rag_LLM.py: Rag and LLM
 * meal_generation_calorie.py: calorie, fat, protein and sodium
 * vectorstore_builder.py: vector embedding and retrieval
+
+![Alt text]("Screenshot 2025-07-27 020019.png")
+![Alt text]("Screenshot 2025-07-27 020131.png")
+
+
