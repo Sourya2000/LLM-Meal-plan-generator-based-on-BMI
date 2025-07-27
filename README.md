@@ -40,7 +40,6 @@ python -m src.main_llm
 * meal_generation_calorie.py: calorie, fat, protein and sodium
 * vectorstore_builder.py: vector embedding and retrieval
 
-![image alt]("https://github.com/Sourya2000/LLM-Meal-plan-generator-based-on-BMI/blob/main/Screenshot%202025-07-27%20020019.png?raw=true")
-![image_alt]("")
+![image alt](https://github.com/Sourya2000/LLM-Meal-plan-generator-based-on-BMI/blob/main/Screenshot%202025-07-27%20020019.png?raw=true)
 
 
